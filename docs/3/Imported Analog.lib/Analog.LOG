@@ -1,0 +1,105 @@
+PCAD Importer Log
+Project : Analog.LibPkg
+
+Section : C:\Users\kokiv\p-cad\docs\3\Analog.lib
+    Section : PCB Library - Analog.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 138
+            Warning - 1 : Skipping Token defaultPinDes On Line 156
+            Warning - 1 : Skipping Token defaultPinDes On Line 157
+            Warning - 1 : Skipping Token defaultPinDes On Line 158
+            Warning - 1 : Skipping Token defaultPinDes On Line 159
+            Warning - 1 : Skipping Token defaultPinDes On Line 160
+            Warning - 1 : Skipping Token defaultPinDes On Line 161
+            Warning - 1 : Skipping Token defaultPinDes On Line 162
+            Warning - 1 : Skipping Token defaultPinDes On Line 163
+            Warning - 1 : Skipping Token defaultPinDes On Line 183
+            Warning - 1 : Skipping Token defaultPinDes On Line 184
+            Warning - 1 : Skipping Token defaultPinDes On Line 185
+            Warning - 1 : Skipping Token defaultPinDes On Line 186
+            Warning - 1 : Skipping Token defaultPinDes On Line 205
+            Warning - 1 : Skipping Token defaultPinDes On Line 206
+            Warning - 1 : Skipping Token defaultPinDes On Line 207
+            Warning - 1 : Skipping Token defaultPinDes On Line 208
+            Warning - 1 : Skipping Token defaultPinDes On Line 209
+            Warning - 1 : Skipping Token 6PIN_UNATTACHED On Line 221
+            Warning - 1 : Skipping Token CAPACITOR On Line 346
+            Warning - 1 : Skipping Token DIOD_BRIDGE On Line 373
+            Warning - 1 : Skipping Token GROUND On Line 419
+            Warning - 1 : Skipping Token K554CA3 On Line 433
+            Warning - 1 : Skipping Token TGS2620 On Line 502
+            Warning - 1 : Skipping Token 市140幽12 On Line 539
+            Warning - 1 : Skipping Token attachedSymbol On Line 598
+            Warning - 1 : Skipping Token attachedSymbol On Line 623
+            Warning - 1 : Skipping Token attachedSymbol On Line 651
+            Warning - 1 : Skipping Token attachedSymbol On Line 676
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [K554CA3][Primary] associated with PCAD Component [K554CA3] has been renamed to PCB FootPrint [K554CA3_K554CA3(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [市140幽12][Primary] associated with PCAD Component [市140幽12] has been renamed to PCB FootPrint [市140幽12_市140幽12(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - Analog.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token viaStyleDef On Line 23
+            Warning - 1 : Skipping Token multiLayer On Line 61
+            Warning - 1 : Skipping Token layerContents On Line 75
+            Warning - 1 : Skipping Token multiLayer On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token multiLayer On Line 115
+            Warning - 1 : Skipping Token layerContents On Line 121
+            Warning - 1 : Skipping Token multiLayer On Line 137
+            Warning - 1 : Skipping Token layerContents On Line 140
+            Warning - 1 : Skipping Token multiLayer On Line 155
+            Warning - 1 : Skipping Token layerContents On Line 165
+            Warning - 1 : Skipping Token multiLayer On Line 182
+            Warning - 1 : Skipping Token layerContents On Line 188
+            Warning - 1 : Skipping Token multiLayer On Line 204
+            Warning - 1 : Skipping Token layerContents On Line 211
+            Warning - 1 : Skipping Token defaultPinDes On Line 229
+            Warning - 1 : Skipping Token defaultPinDes On Line 237
+            Warning - 1 : Skipping Token defaultPinDes On Line 245
+            Warning - 1 : Skipping Token defaultPinDes On Line 253
+            Warning - 1 : Skipping Token defaultPinDes On Line 261
+            Warning - 1 : Skipping Token defaultPinDes On Line 269
+            Warning - 1 : Skipping Token defaultPinDes On Line 277
+            Warning - 1 : Skipping Token defaultPinDes On Line 285
+            Warning - 1 : Skipping Token defaultPinDes On Line 293
+            Warning - 1 : Skipping Token defaultPinDes On Line 301
+            Warning - 1 : Skipping Token defaultPinDes On Line 309
+            Warning - 1 : Skipping Token defaultPinDes On Line 317
+            Warning - 1 : Skipping Token defaultPinDes On Line 354
+            Warning - 1 : Skipping Token defaultPinDes On Line 362
+            Warning - 1 : Skipping Token defaultPinDes On Line 381
+            Warning - 1 : Skipping Token defaultPinDes On Line 389
+            Warning - 1 : Skipping Token defaultPinDes On Line 397
+            Warning - 1 : Skipping Token defaultPinDes On Line 405
+            Warning - 1 : Skipping Token defaultPinDes On Line 427
+            Warning - 1 : Skipping Token defaultPinDes On Line 441
+            Warning - 1 : Skipping Token defaultPinDes On Line 448
+            Warning - 1 : Skipping Token defaultPinDes On Line 455
+            Warning - 1 : Skipping Token defaultPinDes On Line 462
+            Warning - 1 : Skipping Token defaultPinDes On Line 469
+            Warning - 1 : Skipping Token defaultPinDes On Line 476
+            Warning - 1 : Skipping Token defaultPinDes On Line 483
+            Warning - 1 : Skipping Token defaultPinDes On Line 491
+            Warning - 1 : Skipping Token defaultPinDes On Line 509
+            Warning - 1 : Skipping Token defaultPinDes On Line 516
+            Warning - 1 : Skipping Token defaultPinDes On Line 523
+            Warning - 1 : Skipping Token defaultPinDes On Line 530
+            Warning - 1 : Skipping Token defaultPinDes On Line 547
+            Warning - 1 : Skipping Token defaultPinDes On Line 554
+            Warning - 1 : Skipping Token defaultPinDes On Line 562
+            Warning - 1 : Skipping Token defaultPinDes On Line 570
+            Warning - 1 : Skipping Token defaultPinDes On Line 577
+        EndSection
+
+        Section : Generating SCH Library - Analog.SchLib
+            Warning - 0 : PCAD Pattern Graphics [K554CA3][Primary] associated with PCAD Component [K554CA3] has been renamed to PCB FootPrint [K554CA3_K554CA3(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [市140幽12][Primary] associated with PCAD Component [市140幽12] has been renamed to PCB FootPrint [市140幽12_市140幽12(Primary)].
+        EndSection
+    EndSection
+EndSection
