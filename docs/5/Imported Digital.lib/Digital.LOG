@@ -1,0 +1,39 @@
+PCAD Importer Log
+Project : Digital.LibPkg
+
+Section : C:\Users\kokiv\p-cad\docs\3\Digital.lib
+    Section : PCB Library - Digital.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token K561IE10 On Line 88
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - Digital.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token viaStyleDef On Line 23
+            Warning - 1 : Skipping Token multiLayer On Line 61
+            Warning - 1 : Skipping Token layerContents On Line 77
+            Warning - 1 : Skipping Token defaultPinDes On Line 96
+            Warning - 1 : Skipping Token defaultPinDes On Line 104
+            Warning - 1 : Skipping Token defaultPinDes On Line 112
+            Warning - 1 : Skipping Token defaultPinDes On Line 120
+            Warning - 1 : Skipping Token defaultPinDes On Line 128
+            Warning - 1 : Skipping Token defaultPinDes On Line 136
+            Warning - 1 : Skipping Token defaultPinDes On Line 144
+            Warning - 1 : Skipping Token defaultPinDes On Line 153
+            Warning - 1 : Skipping Token defaultPinDes On Line 162
+            Warning - 1 : Skipping Token defaultPinDes On Line 170
+            Warning - 1 : Skipping Token defaultPinDes On Line 178
+            Warning - 1 : Skipping Token defaultPinDes On Line 186
+            Warning - 1 : Skipping Token defaultPinDes On Line 194
+            Warning - 1 : Skipping Token defaultPinDes On Line 202
+        EndSection
+
+        Section : Generating SCH Library - Digital.SchLib
+        EndSection
+    EndSection
+EndSection
